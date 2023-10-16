@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ganesh_utla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganesh_utla" height="30" width="40" /></a>
+  <a href="https://x.com/ganesh_utla" target="blank"><img align="center" src="https://github.com/ganesh-utla/ganesh-utla/assets/87692393/e99edfb9-a016-438c-a738-0139b0f616d0" alt="ganesh_utla" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/ganesh-utla-888abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh_utla" height="30" width="40" /></a>
   <a href="https://instagram.com/ganesh_utla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sargam_sanjay___01" height="30" width="40" /></a>
   <a href="https://medium.com/@ganeshutla888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjaysargam" height="30" width="40" /></a>
