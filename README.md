@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ganesh Utla</h1>
-<h3 align="center">I am a Full Stack Web Developer who loves to build crazy web stuff.</h3>
+<h3 align="center">I am a Backend-focused Product Engineer with experience building and optimizing scalable fintech systems.</h3>
 <br></br>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning about **AI Agents** and **LLM-Based Automations**
 
-- 💬 Ask me about **DSA, Web Development, React.js, Next.js, Python**
+- 💬 Ask me about **DSA, Backend Development, Python, React.js, Next.js**
 
 - 📫 How to reach me **ganeshutla888@gmail.com**
 
